@@ -1,0 +1,107 @@
+/* Me class for my title area*/
+/* Pgoals class for my profession goals areea (brown)*/
+/* PgoalsText class for the text in my professional goals section */
+/* Skillset class for my skills section (light-green)*/ 
+/* Projects class for my projects section*/
+/* WorkExp class for my work experience section (light-yellow)*/
+/* Edu class for my education section*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	padding: 50px;
+}
+
+h1,
+h2,
+h3,
+p  {
+	text-align: center;
+	/*padding: 0px;*/
+}
+
+body {
+	background-color: #FFFBD1;     /*Background color*/
+	/*padding: 0px;	*/				/*  */
+}
+
+.workp {
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	/*padding: 0px;	*/
+}
+
+.WorkExp {
+	display: inline-block;
+	background-color: #FFFBD1;
+	margin-right: -6px;
+	padding: 25px
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+
+
+.Me {
+	background-color: #EDFFE1;
+	color: #000;
+	/*padding: 0px;*/
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+	/* display: inline-block; This would make the text box aligned to the left of the page waiting on another inline block element*/
+}
+
+.Pgoals {
+	background-color: #CBC6BE;
+	color: #000;
+	padding: 50px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+.Skillset {
+	background-color: #EDFFE1;
+	padding: 50px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+.Projects {
+	background-color: #BBD5F2;
+	padding: 50px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+.WETitle {
+	background-color: #FFFBD1;
+	padding: 25px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+.Edu {
+	background-color: #BFBCDC;
+	padding: 50px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
+
+.contact {
+	background-color: #BFBCDC;
+	padding: 50px;
+	/*border-style: solid;
+	border-color: #000;
+	border-width: 5px;*/
+}
